@@ -1,0 +1,1 @@
+<!-- <link rel="shortcut icon" href="<%=require('src/assets/favicon.svg').default%>" подключение favicon  -->
